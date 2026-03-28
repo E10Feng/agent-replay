@@ -1,0 +1,7 @@
+langgraph>=0.2.0
+langchain-core>=0.3.0
+rich>=13.7.0
+click>=8.1.7
+psycopg2-binary>=2.9.9
+pytest>=8.0.0
+pytest-mock>=3.12.0
